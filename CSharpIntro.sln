@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary", "Dictionary\Di
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{0CBBDF08-9223-4A41-B02C-E2261EA2ED90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{0FC9F418-2AE4-4C12-A9B6-3D7C35C4A1B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "Classes\Classes.csproj", "{0FC9F418-2AE4-4C12-A9B6-3D7C35C4A1B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DamaTahtasi", "DamaTahtasi\DamaTahtasi.csproj", "{53C2B3F8-FDCB-4FBD-9FBD-0F818BE6D530}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{0FC9F418-2AE4-4C12-A9B6-3D7C35C4A1B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FC9F418-2AE4-4C12-A9B6-3D7C35C4A1B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FC9F418-2AE4-4C12-A9B6-3D7C35C4A1B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53C2B3F8-FDCB-4FBD-9FBD-0F818BE6D530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C2B3F8-FDCB-4FBD-9FBD-0F818BE6D530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C2B3F8-FDCB-4FBD-9FBD-0F818BE6D530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C2B3F8-FDCB-4FBD-9FBD-0F818BE6D530}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
