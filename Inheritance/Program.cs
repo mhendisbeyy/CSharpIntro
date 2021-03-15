@@ -27,11 +27,6 @@ namespace Inheritance
         public string FirstName { get; set; }
         public string LastName { get; set; }
     }
-    class Person2
-    {
-
-    }
-
     class Customer:Person
     {
         public string City { get; set; }
